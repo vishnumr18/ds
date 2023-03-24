@@ -1,0 +1,2 @@
+
+    if (isdigit(sym))
